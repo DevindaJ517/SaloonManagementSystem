@@ -1,0 +1,4 @@
+com\example\simplebackend\config\CorsConfig.class
+com\example\simplebackend\SimpleBackendApplication.class
+com\example\simplebackend\model\Booking.class
+com\example\simplebackend\config\CorsConfig$1.class
